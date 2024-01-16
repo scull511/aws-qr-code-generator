@@ -1,1 +1,1 @@
-# aws qr code generator
+# Serverless QR Code Generator
