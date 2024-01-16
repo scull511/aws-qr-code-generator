@@ -1,1 +1,1 @@
-# aws-qr-code-generator
+# aws qr code generator
